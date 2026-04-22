@@ -1,2 +1,2 @@
 # taller iujo seccion "A"
-realizado por Ignacio escalona.
+realizado por ignacio escalona
